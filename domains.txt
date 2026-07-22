@@ -6,7 +6,6 @@ proxyip.hk.fxxk.dedyn.io
 proxyip.aliyun.fxxk.dedyn.io
 proxyip.oracle.fxxk.dedyn.io
 proxyip.digitalocean.fxxk.dedyn.io
-hk443.018881.xyz
 jp443.008882.xyz
 sg.onecf.eu.org
 nl.onecf.eu.org
@@ -21,3 +20,15 @@ proxyip.sg.cmliussss.net
 ips.meizitu.net
 bpb.yousef.isegaro.com
 my-telegram-is-herocore.onecf.eu.org
+sg.proxyip.cmliussss.net
+nrt.proxyip.cmliussss.net
+gb443.018881.xyz
+us443.018881.xyz
+tw443.018881.xyz
+sg443.018881.xyz
+kr443.018881.xyz
+jp443.018881.xyz
+hk443.018881.xyz
+usaws443.018881.xyz
+sgaws443.018881.xyz
+jpaws443.018881.xyz
