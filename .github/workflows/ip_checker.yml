@@ -4,8 +4,8 @@ on:
   # 手动触发工作流
   workflow_dispatch:
   # 定时触发，每 3 小时一次
-  schedule:
-    - cron: '0 */12 * * *'
+  #schedule:
+  #  - cron: '0 */12 * * *'
 
 permissions:
   contents: write  # 允许修改仓库内容
